@@ -1,9 +1,12 @@
 # TaxSolution
 Answer to Tax problem
 
+Download the Zip file to your system.
+
 Install the latest java JDK and JRE from:
 http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
+(Optional Step as you will receive build folder that contains .class files when you download this repository)
 Create .class files running the "javac" command on all .java files:
 ```
 >cd [path of the .java files folder]
