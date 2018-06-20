@@ -7,9 +7,11 @@ Download the project as Zip or just download the files you need.
 Install the latest java JDK and JRE from:
 http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
-(Optional Step as you will receive build folder that contains .class files when you download this repository)
+
 Create .class files running the "javac" command on all .java files:
 ```
+(Optional Step as you will receive build folder that contains .class files when you download this repository)
+
 >cd [path of the .java files folder]
 >javac [filename.java]
 ```
