@@ -1,7 +1,8 @@
 # TaxSolution
-Answer to Tax problem
 
-Download the Zip file to your system.
+Follow the steps below to run the application:
+
+Download the project as Zip or just download the files you need.
 
 Install the latest java JDK and JRE from:
 http://www.oracle.com/technetwork/java/javase/downloads/index.html
